@@ -1,0 +1,8 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*:Zone.Identifier
+
+# course materials (not my work)
+Fall26 CSCI580 Week10 - FinalProjectPart1.pdf
+Fall26 CSCI580 Week9.2-10  - Intro Learning-Based AI (1).pdf
